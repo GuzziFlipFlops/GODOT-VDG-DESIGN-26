@@ -1,2 +1,2 @@
 # GODOT VDG DESIGN 26
- sahas, aditya, ibby, sai
+ sahas, aditya, ibby, akhil, laksh
